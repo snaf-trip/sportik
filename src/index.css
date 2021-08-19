@@ -23,3 +23,15 @@ code {
   color: #fff;
   border: none;
 }
+
+.button-remove:hover {
+  background-color: rgb(0, 155, 206);
+}
+
+.button-remove:active {
+  background-color: rgb(66, 208, 255);
+}
+
+.done {
+  text-decoration: line-through;
+}
